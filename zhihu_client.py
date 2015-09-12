@@ -1,4 +1,3 @@
-#bin/usr/python
 # -*- coding:utf-8 -*-
 __author__='zhuke'
 import re,os
