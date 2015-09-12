@@ -22,7 +22,7 @@ def login():
 		'Accept-Language':'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2',
 		'Cache-Control':'max-age=0',
 		'Connection':'keep-alive',
-		'Cookie':'za=a6e47f60-1454-4048-9fe0-dcf7ed008b67; _ga=GA1.2.1280435292.1433556326; _xsrf=3d17b3d6fd9bbdd17bbe4c8dfe669698; cap_id="ZTkwM2Q0MGU2N2M5NDAwY2I0ZmE0ZjkyM2ZhM2I4NTQ=|1441109495|605d21d6e476ac7a52b38bc35fbf91bba2c9aa97"; z_c0="QUFCQVd1MGdBQUFYQUFBQVlRSlZUWWdrRFZaMGtwTms3ZXpqajZTQ0dCMFpIS0ZuN1otRGNnPT0=|1441109896|c3a3385689e094bb569e54e91590f6bd2d7f58cb"; q_c1=43eac1c205354502a4244cb8b2da79b0|1441976502000|1428579852000; __utmt=1; __utma=51854390.1280435292.1433556326.1441976505.1442041506.4; __utmb=51854390.3.9.1442041604325; __utmc=51854390; __utmz=51854390.1441976505.2.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmv=51854390.100-1|2=registration_date=20131119=1^3=entry_date=20131119=1',
+		
 		'DNT':'1',
 		'Host':'www.zhihu.com',
 		'Upgrade-Insecure-Requests':'1',
